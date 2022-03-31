@@ -110,7 +110,7 @@ Marcos Matheus de Paiva Silva
 
 ## Credits
 
-Web scraping was done from https://www.nbastuffer.com/player-stats/. The code written in google collaborative was based on the steps of the book Aurelien Geron - hands on machine learning-2019. In addition, this code was developed based on everything I learned from: Jesse E.Agbe, Siddhardhan, Lucas Grassano Lattari, Shashank Kalanithi, Walisson Silva, Israel Dryer, Fernando Nakamuta,  Alex Freberg.
+Web scraping was done from https://www.nbastuffer.com/player-stats/. The code written in Google Colaboratory was based on the steps of the book Aurelien Geron - hands on machine learning-2019. In addition, this code was developed based on everything I learned from: Jesse E.Agbe, Siddhardhan, Lucas Grassano Lattari, Shashank Kalanithi, Walisson Silva, Israel Dryer, Fernando Nakamuta,  Alex Freberg.
 
 
 ## License
