@@ -46,6 +46,7 @@ The application is already running and it is not necessary to install anything o
 
 * [Pandas 1.4.1](https://pypi.org/project/pandas/);
 * [Imblearn 0.0](https://pypi.org/project/imblearn/);
+* [seaborn 0.11.2](https://pypi.org/project/seaborn/0.11.2/)
 * [pickle-mixin 1.0.2](https://pypi.org/project/pickle-mixin/);
 * [numpy 1.22.2](https://pypi.org/project/numpy/);
 * [Streamlit 1.6.0](https://pypi.org/project/streamlit/);
