@@ -52,7 +52,7 @@ The application is already running and it is not necessary to install anything o
 * [scikit-learn 1.0.2](https://pypi.org/project/scikit-learn/);
 * [xgboost 0.90](https://pypi.org/project/xgboost/0.90/);
 * [Requests 2.27.1](https://pypi.org/project/requests/);
-* [Beautifulsoup 4.10.0](https://pypi.org/project/beautifulsoup4/)..
+* [Beautifulsoup 4.10.0](https://pypi.org/project/beautifulsoup4/).
 
 Hosted In:
 
