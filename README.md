@@ -1,6 +1,6 @@
 # Predict-NBA-player-Points-End-to-end-Project :man_scientist: :hugs: :computer:
 
-![screem.png](https://github.com/M-MSilva/Predict-NBA-player-Points_End-to-end-Project/blob/master/Images/NBA_end_to_end_project/screem.png) 
+![screem.png](https://github.com/M-MSilva/Predict-NBA-player-Points_End-to-end-Project/blob/master/Images/NBA_end_to_end_project/allPictures.png) 
 
 ## Important notes about the project
 
