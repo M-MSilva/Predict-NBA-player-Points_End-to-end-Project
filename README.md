@@ -44,20 +44,22 @@ The application is already running and it is not necessary to install anything o
 
 ### Built With
 
-* [Pandas 1.4.1](https://pypi.org/project/pandas/);
-* [Imblearn 0.0](https://pypi.org/project/imblearn/);
+* [Pandas 1.4.1](https://pypi.org/project/pandas/1.4.1);
+* [Imblearn 0.0](https://pypi.org/project/imblearn/0.0);
 * [seaborn 0.11.2](https://pypi.org/project/seaborn/0.11.2/);
-* [pickle-mixin 1.0.2](https://pypi.org/project/pickle-mixin/);
-* [numpy 1.22.2](https://pypi.org/project/numpy/);
-* [Streamlit 1.6.0](https://pypi.org/project/streamlit/);
-* [scikit-learn 1.0.2](https://pypi.org/project/scikit-learn/);
+* [pickle-mixin 1.0.2](https://pypi.org/project/pickle-mixin/1.0.2);
+* [numpy 1.22.2](https://pypi.org/project/numpy/1.22.2);
+* [Streamlit 1.6.0](https://pypi.org/project/streamlit/1.6.0);
+* [scikit-learn 1.0.2](https://pypi.org/project/scikit-learn/1.0.2);
 * [xgboost 0.90](https://pypi.org/project/xgboost/0.90/);
-* [Requests 2.27.1](https://pypi.org/project/requests/);
-* [Beautifulsoup 4.10.0](https://pypi.org/project/beautifulsoup4/).
+* [Requests 2.27.1](https://pypi.org/project/requests/2.27.1);
+* [Beautifulsoup 4.10.0](https://pypi.org/project/beautifulsoup4/4.10.0);
+* [matplotlib: 3.2.2](https://pypi.org/project/matplotlib/3.2.2/);
+* [scipy: 1.7.3](https://pypi.org/project/scipy/1.7.3/).
 
 Hosted In:
 
-* heroku
+* Streamlit
 
 
 ### Running the Code
@@ -85,6 +87,14 @@ pip install imblearn==0.0
 
 ```bash
 pip install xgboost==0.90
+```
+
+```bash
+pip install matplotlib==3.2.2
+```
+
+```bash
+pip install scipy==1.7.3
 ```
 
 done, go to the Deploy folder and type:
